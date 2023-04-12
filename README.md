@@ -11,6 +11,6 @@ This is the Conway Game of Life coded with object oriented programming method.
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python tkinter library
+- Python `tkinter` library
 ## Usage
 You can add cells using the `LEFT` mouse button, remove cells using the `RIGHT` mouse button and pause and play the simulation using the `MIDDLE` mouse button.
